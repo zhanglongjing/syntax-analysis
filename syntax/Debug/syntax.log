@@ -1,0 +1,18 @@
+﻿  syntax.cpp
+D:\Visualprogram\syntax\syntax.cpp(64,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\Visualprogram\syntax\syntax.cpp(82,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\Visualprogram\syntax\syntax.cpp(127,22): warning C4018: “<”: 有符号/无符号不匹配
+D:\Visualprogram\syntax\syntax.cpp(133,28): warning C4018: “<”: 有符号/无符号不匹配
+D:\Visualprogram\syntax\syntax.cpp(209,13): warning C4018: “>=”: 有符号/无符号不匹配
+D:\Visualprogram\syntax\syntax.cpp(230,33): warning C4018: “<”: 有符号/无符号不匹配
+D:\Visualprogram\syntax\syntax.cpp(294,22): warning C4018: “<”: 有符号/无符号不匹配
+D:\Visualprogram\syntax\syntax.cpp(300,22): warning C4018: “<”: 有符号/无符号不匹配
+D:\Visualprogram\syntax\syntax.cpp(349,24): warning C4018: “<”: 有符号/无符号不匹配
+D:\Visualprogram\syntax\syntax.cpp(369,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\Visualprogram\syntax\syntax.cpp(371,17): warning C4018: “<”: 有符号/无符号不匹配
+D:\Visualprogram\syntax\syntax.cpp(425,23): warning C4018: “<”: 有符号/无符号不匹配
+D:\Visualprogram\syntax\syntax.cpp(428,16): warning C4018: “<”: 有符号/无符号不匹配
+D:\Visualprogram\syntax\syntax.cpp(590,7): warning C4101: “oldStatus”: 未引用的局部变量
+D:\Visualprogram\syntax\syntax.cpp(665,21): warning C4018: “<”: 有符号/无符号不匹配
+D:\Visualprogram\syntax\syntax.cpp(680,22): warning C4018: “<”: 有符号/无符号不匹配
+  syntax.vcxproj -> D:\Visualprogram\syntax\Debug\syntax.exe
